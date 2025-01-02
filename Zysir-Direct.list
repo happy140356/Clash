@@ -17,9 +17,6 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-KEYWORD,m-team
 
-# VPS
-IP-CIDR,173.242.113.78/32
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -29,7 +26,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
